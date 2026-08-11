@@ -1,0 +1,799 @@
+{
+  "meta": {
+    "title": "Gustavo Corção — Cronologia",
+    "subtitle": "Chronology of Gustavo Corção (1896–1978)",
+    "description": "An open, source-referenced chronology of Gustavo Corção — Brazilian Catholic writer, engineer and polemicist: his life and works, the Centro Dom Vital years, the founding of Permanência, the disputes of the 1960s–70s, and his posthumous reception.",
+    "language": "en",
+    "siteUrl": "https://cronologia.github.io/corcao/",
+    "lastUpdated": "2026-08-11",
+    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). Contested characterizations are attributed to their authors — never asserted in the site's own voice — and dates not yet verified against a primary source carry a ? flag. Known limits of this snapshot: publication years of several books are discordant across the standard sources and are flagged per work rather than silently chosen; the 1978 press obituaries are attested via scholarship while the newspaper pages themselves await capture (the Hemeroteca Digital, memoria.bn.gov.br, is geo-blocked outside Brazil); olavodecarvalho.org now serves hijacked content, so Olavo de Carvalho's texts on Corção await Wayback or print capture and are represented here only through the lecture-transcription corpus; and the military-regime thread is carried as attributed framings in both directions — critical scholarship names his role, sympathetic profiles omit it, and this dataset records both without adjudicating.",
+    "vizChips": [
+      { "href": "#chronology", "label": "📜 Chronology" },
+      { "href": "#chronology-spine", "label": "📈 In time" },
+      { "href": "#threads", "label": "🧵 Storylines" }
+    ],
+    "threads": {
+      "note": "These lanes are an editorial reading of a contested chronology, not a neutral fact. An event may sit in more than one lane, and absence from a lane is not a claim of irrelevance. The press-and-regime lane in particular holds characterizations attributed in both directions — the critical scholarship's and the admirers' — and adjudicates neither.",
+      "lanes": [
+        {
+          "id": "life",
+          "label": "Life, formation and career",
+          "basis": "The periodization of the DHBB biographical entry (CPDOC/FGV), which the life events here follow.",
+          "sources": ["cpdoc-corcao"]
+        },
+        {
+          "id": "press-regime",
+          "label": "Press, politics and the military regime",
+          "basis": "Jalles de Paula's studies of Corção's newspaper crônicas (1953–1975), which periodize his press career and his regime-era positions. His 'apostle of the linha-dura' reading is his own; the admiring profiles' omission of the thread is documented alongside it.",
+          "sources": ["jalles-rbh-2012", "cdb-48anos"]
+        },
+        {
+          "id": "church-disputes",
+          "label": "Catholic disputes — Centro Dom Vital, Vatican II, hierarchy, Benedictines",
+          "basis": "Jalles de Paula's account of Corção and the reception of Vatican II in Brazil (ANPUH 2011), cross-read with the DHBB Centro Dom Vital entry and with Permanência's own telling.",
+          "sources": ["jalles-anpuh-2011", "cpdoc-cdv", "permanencia-fleichman"]
+        },
+        {
+          "id": "permanencia",
+          "label": "Permanência",
+          "basis": "Permanência's institutional self-account and Jalles de Paula's press-anchored dating, kept side by side where they differ (notably on the founding date).",
+          "sources": ["permanencia-quemsomos", "jalles-anpuh-2011"]
+        },
+        {
+          "id": "works-reception",
+          "label": "Works and reception",
+          "basis": "The bibliographies — Permanência's own and the Biblioteca Nacional dossier's — plus the reception loci in the COF lecture-transcription corpus. Publication years discordant across sources are flagged per work.",
+          "sources": ["permanencia-biblio", "bn-revistadolivro-57", "cof-transcriptions"]
+        }
+      ]
+    }
+  },
+  "chronologySpine": {},
+  "facts": [
+    {
+      "label": "Who he was",
+      "value": "Gustavo Corção Braga (1896–1978): Brazilian Catholic writer, engineer and polemicist — an adult convert (1939), a columnist for major Rio de Janeiro newspapers for over three decades, and the founder of the association, revista and editora Permanência (1968).",
+      "sources": ["cpdoc-corcao", "jalles-anpuh-2011"]
+    },
+    {
+      "label": "Born",
+      "value": "17 December 1896, Rio de Janeiro (then Distrito Federal), son of Francisco Braga, an accountant, and Graciete Corção Braga, a schoolteacher.",
+      "sources": ["cpdoc-corcao"]
+    },
+    {
+      "label": "Died",
+      "value": "6 July 1978, Rio de Janeiro. Obituary coverage in Jornal do Brasil and O Globo of 7 July 1978 — including an obituary of him by Alceu Amoroso Lima — is attested via Jalles de Paula's scholarship; the newspaper pages themselves await capture, the Hemeroteca Digital being geo-blocked outside Brazil.",
+      "sources": ["cpdoc-corcao", "jalles-cap-2012"]
+    },
+    {
+      "label": "Conversion",
+      "value": "1939, out of the crisis that followed his first wife's death (1936), through readings of Chesterton and Maritain and through Carlos Chagas Filho, who introduced him to Alceu Amoroso Lima, then president of the Centro Dom Vital. He studied Thomism, then theology at the Mosteiro de São Bento, where he became a Benedictine oblate under the name Paulo.",
+      "sources": ["cpdoc-corcao", "jalles-anpuh-2011"]
+    },
+    {
+      "label": "Engineering career",
+      "value": "Left the Escola Politécnica in his final year (1920); assistant in astronomy there from 1925; radiotelegraphy at Radiobrás 1926–1937; professor of electronics at the Escola Técnica do Exército (today's IME) from 1935; professor at the Faculdade Nacional de Engenharia from 1951; retired from all three posts in 1966.",
+      "sources": ["cpdoc-corcao"]
+    },
+    {
+      "label": "Marriages",
+      "value": "First, Diva Paiva, who died in 1936, with two children (named Mabel and Rogério only by the Portuguese Wikipedia — single-source, unverified); second, Hebe Nathanson Ferreira da Silva, with four children.",
+      "sources": ["cpdoc-corcao", "wiki-corcao"]
+    },
+    {
+      "label": "Press platforms",
+      "value": "Diário de Notícias from 1944 (columnist 1953–1967 in Jalles de Paula's periodization); Tribuna da Imprensa 1949–1952 at Carlos Lacerda's invitation; O Estado de S. Paulo from 1954, Correio do Povo from 1956, Gazeta do Povo and A Tarde from 1960; O Globo from 11 April 1968 until his death, writing Thursdays and Saturdays.",
+      "sources": ["cpdoc-corcao", "jalles-anpuh-2011", "jalles-rbh-2012"]
+    },
+    {
+      "label": "Principal works",
+      "value": "A Descoberta do Outro (Agir, 1944; conversion narrative); Três Alqueires e Uma Vaca (Agir, 1946 — 1945 per the DHBB); Lições de Abismo (Agir, 1950; his only novel); As Fronteiras da Técnica (Agir — year discordant across sources: 1951 DHBB, 1952 BN bibliography, 1953 ANPUH, 1954 Permanência); Dez Anos (Agir, 1956); Claro Escuro (Agir, 1958); Machado de Assis (Agir, 1959); Patriotismo e Nacionalismo (Ed. Presença, 1960 — single source); O Desconcerto do Mundo (Agir, 1965 — 1964 per DHBB, 1961 per ANPUH); Dois Amores, Duas Cidades (Agir, 1967, 2 vols); A Tempo e Contratempo (Permanência, 1969); Progresso e Progressismo (1970 per Permanência's site, 1974 per the BN bibliography); O Século do Nada (Record, 1973); posthumously, Conversa em Sol Menor (memoirs, 1980 — single-source year) and As Descontinuidades da Criação (Permanência, 1992).",
+      "sources": ["cpdoc-corcao", "permanencia-biblio", "bn-revistadolivro-57", "jalles-anpuh-2011", "krause-blog"]
+    },
+    {
+      "label": "Prizes and honours",
+      "value": "A prize for Lições de Abismo whose name and year are contested (UNESCO 1955 per the DHBB, UNESCO 1954 per Permanência's bibliography, IBCC 1954 per the Portuguese Wikipedia); the Instituto Nacional do Livro prize, 1974, for O Século do Nada; and a 1965 Nobel candidacy proposed by Manuel Bandeira, reported only by sympathetic and secondary sources — flagged.",
+      "sources": ["cpdoc-corcao", "permanencia-biblio", "wiki-corcao", "cdb-48anos"]
+    },
+    {
+      "label": "Permanência",
+      "value": "Founded by Corção with intellectuals who had left the Centro Dom Vital with him: a public launch conference in August 1968 (press-dated via O Globo of 19 August 1968), and a religious founding on 29 September 1968 with a mass by Cardinal Jaime Câmara — the date Permanência itself keeps. Association, revista and editora at once; still active today under continuators who describe themselves in traditionalist terms.",
+      "sources": ["jalles-anpuh-2011", "permanencia-quemsomos", "permanencia-fleichman"]
+    },
+    {
+      "label": "Documented ruptures",
+      "value": "With Alceu Amoroso Lima and the Centro Dom Vital (1963, taking about 200 associates with him); with Jacques Maritain, his 'master of conversion', dated by Jalles de Paula to the Vatican II years; with the Rio hierarchy in the public clashes with Dom Eugênio Sales (1972 and 1973); and with the Brazilian Benedictine Congregation (July 1974). No Corção–TFP rupture is documented in the sources reached — see the disambiguation section for the three framings of that relation.",
+      "sources": ["cpdoc-corcao", "jalles-anpuh-2011", "jalles-cap-2012"]
+    }
+  ],
+  "events": [
+    {
+      "year": 1896,
+      "date": "1896-12-17",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Birth of Gustavo Corção Braga",
+      "text": "Born in Rio de Janeiro, then the Distrito Federal, son of Francisco Braga, an accountant, and Graciete Corção Braga, a schoolteacher who ran the Colégio Corção, where he would later teach as a student.",
+      "sources": ["cpdoc-corcao"],
+      "threads": ["life"]
+    },
+    {
+      "year": 1920,
+      "date": "1913–1920",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Escola Politécnica years; leaves in the final year",
+      "text": "Studies at the Colégio Pedro II and then the Escola Politécnica do Rio de Janeiro, abandoning the final year of engineering in 1920. As a student he reads O Capital, learns German, and sympathizes with Marxism — a phase his conversion narrative would later revisit.",
+      "sources": ["cpdoc-corcao"],
+      "threads": ["life"]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Professor of electronics at the Escola Técnica do Exército",
+      "text": "Appointed professor of electronics at the Escola Técnica do Exército, the future Instituto Militar de Engenharia (IME), after a decade in radiotelegraphy at Radiobrás and an assistantship in astronomy at the Politécnica (1925, invited by Manuel Amoroso Costa).",
+      "sources": ["cpdoc-corcao"],
+      "threads": ["life"]
+    },
+    {
+      "year": 1936,
+      "date": "1936",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Death of his first wife, Diva Paiva",
+      "text": "Diva Paiva dies, leaving two children. The DHBB entry places here the existential crisis behind his conversion three years later.",
+      "sources": ["cpdoc-corcao"],
+      "threads": ["life"]
+    },
+    {
+      "year": 1939,
+      "date": "1939",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Conversion to Catholicism; first article in A Ordem",
+      "text": "Converts through readings of Chesterton and Maritain and through Carlos Chagas Filho, who introduces him to Alceu Amoroso Lima, president of the Centro Dom Vital. His first article — a criticism of Monteiro Lobato's children's literature — appears the same year in A Ordem, the Centro's review. He studies Thomism and then theology at the Mosteiro de São Bento, becoming a Benedictine oblate under the name Paulo.",
+      "sources": ["cpdoc-corcao", "jalles-anpuh-2011"],
+      "threads": ["life", "church-disputes"]
+    },
+    {
+      "year": 1944,
+      "date": "1944",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "A Descoberta do Outro (Agir); begins writing in the Diário de Notícias",
+      "text": "Publishes his conversion narrative A Descoberta do Outro with Agir, acclaimed at once — Júlio Fleichman's memoir recalls him being compared to Machado de Assis — and begins collaborating in the Diário de Notícias. The book was later translated into English, Spanish and French, and reeditions print Jacques Maritain's letter to him.",
+      "sources": ["cpdoc-corcao", "permanencia-fleichman", "permanencia-biblio"],
+      "threads": ["works-reception", "press-regime"]
+    },
+    {
+      "year": 1945,
+      "date": "1945",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Joins the anti-Estado Novo Resistência Democrática campaign",
+      "text": "Takes part in the Resistência Democrática campaign against the Estado Novo. Fleichman's memoir situates his own first meeting with Corção in that milieu.",
+      "sources": ["cpdoc-corcao", "permanencia-fleichman"],
+      "threads": ["press-regime", "life"]
+    },
+    {
+      "year": 1949,
+      "date": "1949–1952",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Columnist of the Tribuna da Imprensa, at Carlos Lacerda's invitation",
+      "text": "Writes in Carlos Lacerda's Tribuna da Imprensa from 1949 to 1952 (the column years per Jalles de Paula). The DHBB credits Corção and Alceu Amoroso Lima jointly with Lacerda's conversion to Catholicism, a friendship dating from the 1940s.",
+      "sources": ["cpdoc-corcao", "jalles-anpuh-2011"],
+      "threads": ["press-regime"]
+    },
+    {
+      "year": 1950,
+      "date": "1950",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Lições de Abismo (Agir), his only novel",
+      "text": "Publishes Lições de Abismo, widely translated. The prize it won is contested across the sources: the DHBB says a UNESCO prize in 1955, Permanência's bibliography a UNESCO award in 1954, and the Portuguese Wikipedia an IBCC prize in 1954 — recorded here as a discordance, not resolved.",
+      "dateNote": "The book year 1950 is consistent across sources; the prize name and year are not (UNESCO 1955 per DHBB; UNESCO 1954 per Permanência; IBCC 1954 per pt.wikipedia).",
+      "sources": ["cpdoc-corcao", "permanencia-biblio", "wiki-corcao"],
+      "threads": ["works-reception"]
+    },
+    {
+      "year": 1951,
+      "date": "1951–1953",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Leads the Centro Dom Vital during Alceu Amoroso Lima's absence",
+      "text": "With Alceu in Washington from 1951, Corção assumes the leadership of the Centro Dom Vital, imprinting on it — in the DHBB's words — 'uma orientação profundamente conservadora'. On Alceu's return in 1953, the DHBB records, 'as divergências entre ambos deflagraram uma aguda crise interna no centro'. The same year he becomes a columnist of the Diário de Notícias (1953–1967 in Jalles de Paula's periodization) and, from 1951, professor at the Faculdade Nacional de Engenharia.",
+      "sources": ["cpdoc-corcao", "cpdoc-cdv", "jalles-anpuh-2011"],
+      "threads": ["church-disputes", "life"]
+    },
+    {
+      "year": 1954,
+      "date": "1954–1960",
+      "dateVerified": true,
+      "place": "Brazil",
+      "title": "His column syndicates across the Brazilian press",
+      "text": "The collaboration widens: O Estado de S. Paulo from 1954, Correio do Povo from 1956, Gazeta do Povo and A Tarde from 1960.",
+      "sources": ["cpdoc-corcao"],
+      "threads": ["press-regime"]
+    },
+    {
+      "year": 1959,
+      "date": "1959-08-09",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Jacques Maritain writes to Corção",
+      "text": "Maritain's letter of 9 August 1959 to Corção — a facsimile is printed in the Biblioteca Nacional's Revista do Livro n.57 dossier. Jalles de Paula dates Corção's later rupture with 'seu mestre de conversão' to the Vatican II years, and O Século do Nada (1973) attacks Maritain directly (the latter point via an admirer's chronology — sympathetic secondary source).",
+      "sources": ["bn-revistadolivro-57", "jalles-anpuh-2011", "krause-blog"],
+      "threads": ["works-reception", "church-disputes"]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Leaves the Centro Dom Vital with about 200 associates",
+      "text": "After Alceu Amoroso Lima's Jornal do Brasil page defending the Church of dialogue — 'uma espécie de Encíclica do Alceu', in Corção's phrase as recalled by Fleichman — Corção, then vice-president of the Centro Dom Vital and editor of A Ordem, leaves the Centro taking about 200 associates. Alceu's contemporaneous reading, quoted by Jalles de Paula: 'o medo da liberdade e o culto da autoridade tornaram-se as bases dos argumentos' of Corção. Fleichman's memoir has Cardinal Jaime Câmara siding with Corção's group ('vocês fiquem, quem vai sair é ele') — Permanência-side testimony, labeled.",
+      "sources": ["cpdoc-corcao", "cpdoc-cdv", "permanencia-fleichman", "jalles-rbh-2012", "bn-revistadolivro-57"],
+      "threads": ["church-disputes"]
+    },
+    {
+      "year": 1964,
+      "date": "1964",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "A Ordem stops circulating; the Centro Dom Vital declines",
+      "text": "The Centro Dom Vital's review A Ordem stops circulating 'devido a divergências entre seus colaboradores' (DHBB). Alceu Amoroso Lima leaves the Centro's presidency in 1966; the DHBB records the Centro's decline thereafter.",
+      "sources": ["cpdoc-cdv"],
+      "threads": ["church-disputes"]
+    },
+    {
+      "year": 1964,
+      "date": "1964-04-03",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Hails the 1964 coup in the Diário de Notícias",
+      "text": "In columns of 3 and 5 April 1964, quoted by Jalles de Paula, Corção greets the military movement as the 'triunfo da democracia' and argues against restoring 'os direitos que eles mesmos, violentamente, destruíram'. His summary formula, quoted in the DHBB: the movement 'possibilitou, com um mínimo de choques, libertarmo-nos da sarna esquerdista que já estava no poder'. The characterizations of what this made him are attributed both ways in this dataset — see the disambiguation section.",
+      "sources": ["jalles-rbh-2012", "cpdoc-corcao"],
+      "threads": ["press-regime"]
+    },
+    {
+      "year": 1965,
+      "date": "1965–1966",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "The linha-dura option; campaigns against Alceu, Dom Hélder and Sobral Pinto",
+      "text": "Jalles de Paula documents the turn: on the Arraes habeas corpus, 28 October 1965, 'Acima do STF está o espírito democrático da Revolução'; a crônica of 16 September accuses Alceu Amoroso Lima of inciting youth 'pela causa comunista'; campaigns follow against Dom Hélder Câmara and even Sobral Pinto. Jalles's thesis — that Corção was 'um dos artífices' of the legitimation of the regime's anti-democratic bases — is his reading, recorded here as such; the admiring profiles omit this thread entirely, which is recorded too.",
+      "sources": ["jalles-rbh-2012", "cdb-48anos"],
+      "threads": ["press-regime", "church-disputes"]
+    },
+    {
+      "year": 1967,
+      "date": "1967",
+      "dateVerified": false,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Ends the Diário de Notícias collaboration; joins the Conselho Federal de Cultura",
+      "text": "The DHBB has him ending the Diário de Notícias collaboration in 1967 and joining the newly created Conselho Federal de Cultura the same year; Jalles de Paula has him leaving the paper in March 1968.",
+      "dateNote": "1967 per the DHBB; March 1968 per Jalles de Paula — a minor discrepancy the sources do not reconcile, so the flag stays.",
+      "sources": ["cpdoc-corcao", "jalles-rbh-2012"],
+      "threads": ["press-regime", "life"]
+    },
+    {
+      "year": 1968,
+      "date": "1968-04-11",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "First crônica in O Globo",
+      "text": "'Quinta-feira Santa', his first crônica in O Globo, appears on 11 April 1968; he writes there on Thursdays and Saturdays until 1978.",
+      "sources": ["jalles-rbh-2012", "jalles-anpuh-2011"],
+      "threads": ["press-regime"]
+    },
+    {
+      "year": 1968,
+      "date": "1968-08",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Public launch of Permanência packs the MEC auditorium",
+      "text": "Corção's launch conference for the 'associação cultural católica Permanência' fills the auditorium of the Ministry of Education. O Globo of 19 August 1968, cited by Jalles de Paula, reports the objective as 'o combate às confusões e deformações da Igreja no Brasil, introduzidas pela chamada ala progressista do clero'.",
+      "dateNote": "August 1968 is the press-anchored launch date (O Globo, 19 August 1968, via Jalles de Paula). Permanência's own founding date is 29 September 1968 — see that event; Fleichman himself distinguishes a political founding (the conference), a juridical founding (his own act) and a religious founding (the cardinal's mass).",
+      "sources": ["jalles-anpuh-2011", "jalles-rbh-2012", "permanencia-fleichman"],
+      "threads": ["permanencia"]
+    },
+    {
+      "year": 1968,
+      "date": "1968-09-14",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Open letter to the nuncio, Dom Sebastiano Baggio",
+      "text": "Corção and his partisans sign an open letter to the apostolic nuncio denouncing what they call the 'deturpada' reception of the Council in Brazil.",
+      "sources": ["jalles-anpuh-2011"],
+      "threads": ["church-disputes", "permanencia"]
+    },
+    {
+      "year": 1968,
+      "date": "1968-09-29",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Permanência's religious founding, with a mass by Cardinal Jaime Câmara",
+      "text": "The date Permanência itself keeps as its founding: 'Fundada em 29 de Setembro de 1968, por Gustavo Corção e diversos intelectuais católicos egressos do Centro Dom Vital', on the feast of St Michael, with a founding mass celebrated by Cardinal Jaime Câmara.",
+      "dateNote": "29 September 1968 is Permanência's own official date, echoed by sympathetic sources; the press-anchored public launch was in August 1968 (previous event). The revista's exact first-issue date was not verified anywhere this session — the earliest press anchor is O Cruzeiro of 12 October 1968 reporting it launched.",
+      "sources": ["permanencia-quemsomos", "permanencia-fleichman"],
+      "threads": ["permanencia"]
+    },
+    {
+      "year": 1968,
+      "date": "1968-10-12",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "O Cruzeiro reports the revista Permanência's launch",
+      "text": "O Cruzeiro of 12 October 1968, cited by Jalles de Paula, reports the revista launched with 1,000 subscribers, Corção hoping for 5,000. The revista was directed by Alfredo Lage.",
+      "sources": ["jalles-cap-2012"],
+      "threads": ["permanencia", "works-reception"]
+    },
+    {
+      "year": 1969,
+      "date": "1969",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "A Tempo e Contratempo, Permanência's first house imprint; Fleichman's presidency begins",
+      "text": "Permanência publishes Corção's A Tempo e Contratempo under its own imprint. Júlio Fleichman presides over Permanência and its editora from 1969 until 2003/04, per Permanência's own account.",
+      "sources": ["permanencia-biblio", "permanencia-quemsomos"],
+      "threads": ["permanencia", "works-reception"]
+    },
+    {
+      "year": 1969,
+      "date": "1969-02-01",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "The Colégio Sion campaign: 'Colégios católicos que se fecham'",
+      "text": "Opens the campaign around the Colégio Sion with the crônica 'Colégios católicos que se fecham' — 'com conseqüências nefastas para a instituição', in Jalles de Paula's assessment.",
+      "sources": ["jalles-anpuh-2011"],
+      "threads": ["church-disputes", "press-regime"]
+    },
+    {
+      "year": 1969,
+      "date": "1969-11",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Campaign against the Dominicans; convergence with former adversaries of the TFP milieu",
+      "text": "After the arrests of the Dominican friars, Corção campaigns against the order. Jalles de Paula: 'Corção não estava sozinho nessa batalha: a TFP e o grupo da revista Hora Presente comungavam as mesmas idéias. Unindo-se a antigos adversários, Corção rompia mais uma vez com o conservador que fora nos anos 1950.' That is a convergence with former 1950s adversaries, in Jalles's framing — not a rupture with the TFP, of which no document was found; see the disambiguation section for the three framings of the Corção–TFP relation.",
+      "sources": ["jalles-anpuh-2011"],
+      "threads": ["church-disputes", "press-regime", "permanencia"]
+    },
+    {
+      "year": 1970,
+      "date": "1970-05",
+      "dateVerified": true,
+      "place": "Brazil",
+      "title": "Document by 200+ laymen to the CNBB assembly",
+      "text": "A document signed by more than 200 laymen headed by Corção is sent to the CNBB assembly denouncing Marxist infiltration in the Church; it is not discussed, 'por falta de tempo hábil'.",
+      "sources": ["jalles-anpuh-2011"],
+      "threads": ["church-disputes"]
+    },
+    {
+      "year": 1972,
+      "date": "1972-01-27",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "First public clash with Dom Eugênio Sales",
+      "text": "Corção's 'Dialogando com o meu Pastor' (27 January 1972) opens the first public clash with the new archbishop of Rio. Roberto Marinho publicly intercedes for 'o respeito à hierarquia' (O Globo, 5 February 1972, via Jalles de Paula).",
+      "sources": ["jalles-anpuh-2011"],
+      "threads": ["church-disputes"]
+    },
+    {
+      "year": 1973,
+      "date": "1973-01-22",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Second clash with the hierarchy; the Curia's note against him",
+      "text": "Corção, 22 January 1973: 'são os Bispos… que estão comandando a destruição da autoridade… a comunização, a pulverização da Igreja'. The Rio Curia's note (O Globo, 2 February 1973) exhorts the faithful 'a não seguirem, em matéria religiosa, orientação de pessoas que… hoje se excedem'; a desagravo in Corção's support with more than 100 signatures follows (O Globo, 10 February 1973). All via Jalles de Paula's citations of the O Globo files.",
+      "sources": ["jalles-anpuh-2011"],
+      "threads": ["church-disputes"]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "O Século do Nada (Record)",
+      "text": "Publishes O Século do Nada with Record — the book of his anti-Maritain turn — awarded the Instituto Nacional do Livro prize in 1974.",
+      "sources": ["cpdoc-corcao", "krause-blog"],
+      "threads": ["works-reception"]
+    },
+    {
+      "year": 1974,
+      "date": "1974-07-01",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Rupture with the Brazilian Benedictine Congregation",
+      "text": "A public exchange in the Jornal do Brasil of 1 July 1974 marks the official rupture between Corção — a Benedictine oblate since his conversion years — and the Congregação Beneditina Brasileira: 'romperiam oficialmente suas relações na década de 1970' (Jalles de Paula).",
+      "sources": ["jalles-cap-2012"],
+      "threads": ["church-disputes"]
+    },
+    {
+      "year": 1974,
+      "date": "early–mid 1970s",
+      "dateVerified": false,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Progressive blindness; reported contacts with Archbishop Lefebvre and Dom Castro Mayer",
+      "text": "The DHBB records his progressive loss of sight in the 1970s, narrowing his writing to Church subjects. The Centro Dom Bosco — a sympathetic traditionalist source, and the only one reached for these claims — reports a meeting with Archbishop Marcel Lefebvre in the early 1970s and collaboration with Dom Antônio de Castro Mayer, calling Corção 'decisivo na preservação da Missa de Sempre no Brasil'. Single-source, attributed, unverified.",
+      "sources": ["cpdoc-corcao", "cdb-48anos"],
+      "threads": ["life", "church-disputes"]
+    },
+    {
+      "year": 1978,
+      "date": "1978-07-06",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Death of Gustavo Corção",
+      "text": "Dies on 6 July 1978. Jornal do Brasil and O Globo carry the death on 7 July; Alceu Amoroso Lima — his adversary of fifteen years — 'lhe dedicou um obituário belíssimo no Jornal do Brasil' (Jalles de Paula). The Portuguese Wikipedia adds death in Cosme Velho and a seventh-day mass on 14 July 1978 at São Judas Tadeu attended by Alceu, Sobral Pinto and military figures — plausible but resting on Wikipedia's citation of O Globo archives, so that detail stays flagged.",
+      "dateNote": "The death date is verified (DHBB). The obituary pages themselves are attested via Jalles de Paula's citations; direct capture awaits access to the Hemeroteca Digital, geo-blocked outside Brazil. The 14 July seventh-day mass is single-source (pt.wikipedia).",
+      "sources": ["cpdoc-corcao", "jalles-cap-2012", "wiki-corcao"],
+      "threads": ["life"]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "dateVerified": false,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Posthumous memoirs: Conversa em Sol Menor",
+      "text": "His memoirs Conversa em Sol Menor appear posthumously. The 1980 year rests on a single sympathetic source (an admirer's chronology), so the flag stays.",
+      "sources": ["krause-blog"],
+      "threads": ["works-reception"]
+    },
+    {
+      "year": 1992,
+      "date": "1992",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "As Descontinuidades da Criação published by Permanência",
+      "text": "Permanência publishes the posthumous As Descontinuidades da Criação.",
+      "sources": ["permanencia-biblio"],
+      "threads": ["works-reception", "permanencia"]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "dateVerified": true,
+      "place": "São Paulo, Brazil",
+      "title": "Melhores Crônicas — Gustavo Corção (Global)",
+      "text": "Global publishes Melhores Crônicas — Gustavo Corção, organized by Luis Paulo Horta — the first major trade-press return of his work.",
+      "sources": ["bn-revistadolivro-57"],
+      "threads": ["works-reception"]
+    },
+    {
+      "year": 2012,
+      "date": "2012-01-21",
+      "dateVerified": true,
+      "place": "Brazil",
+      "title": "Reception in the COF corpus: a Permanência response to Olavo de Carvalho discussed in lecture",
+      "text": "In a lecture of 21 January 2012 (community transcription COF138, reviewed), Olavo de Carvalho discusses a response to him by Dom Lourenço Fleichman published in the revista Permanência — reception running in both directions between Corção's continuators and the philosopher who called himself a reader and admirer of Corção. Reported here as paraphrase from the transcription file; verbatim quotation waits on audio verification, per the corpus's own rule.",
+      "sources": ["cof-transcriptions"],
+      "threads": ["works-reception"]
+    },
+    {
+      "year": 2015,
+      "date": "2015-01-17",
+      "dateVerified": true,
+      "place": "United States",
+      "title": "Reception in the COF corpus: Corção's works and final years discussed in lecture",
+      "text": "In a lecture of 17 January 2015 (community transcription COF279, reviewed), Olavo de Carvalho discusses Corção's works and, in his telling, reports that the family is said to have claimed Corção 'morreu doido' — a claim he himself signals doubt about in the same passage. Double-attributed here (Olavo reporting what the family is said to have claimed) and asserted by no one in this dataset; paraphrase only, audio verification pending for any quotation.",
+      "sources": ["cof-transcriptions"],
+      "threads": ["works-reception"]
+    },
+    {
+      "year": 2018,
+      "date": "2012–2020",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Permanência's commemorative and scholarly editions",
+      "text": "Permanência publishes Gustavo Corção tomista (2012, org. Lourenço Fleichman), Uma teologia da história (2015), A Igreja Católica e a Outra (2018, 'Edição comemorativa dos 50 anos de fundação de Permanência'), and Maurício Barcellos's UFRJ thesis as Gustavo Corção — A crítica do amor puro (2020). A modern complete-works reedition (~10 volumes) is attested at Vide Editorial via retail listings; the publisher's pages were bot-walled this session, so that edition stays marked to verify.",
+      "sources": ["bn-revistadolivro-57", "permanencia-biblio", "vide-kit"],
+      "threads": ["works-reception", "permanencia"]
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "The Biblioteca Nacional's Revista do Livro carries a Corção dossier",
+      "text": "Revista do Livro n.57 (ano 21, 2023), the Fundação Biblioteca Nacional's review, carries a dossier on Corção, including work by Maurício Barcellos and the facsimile of Maritain's 1959 letter.",
+      "sources": ["bn-revistadolivro-57"],
+      "threads": ["works-reception"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Alceu Amoroso Lima (Tristão de Ataíde)",
+      "role": "Catholic intellectual, president of the Centro Dom Vital from 1928; Corção's sponsor into Catholic letters in 1939 and his chief adversary after 1953/1963. Both directions are documented: Corção's press campaigns against him (the 16 September crônica accusing him of inciting youth 'pela causa comunista', per Jalles de Paula) and Alceu's reading of Corção ('o medo da liberdade e o culto da autoridade'). Alceu nonetheless wrote the Jornal do Brasil obituary of Corção and, per a single-source Wikipedia detail, attended his seventh-day mass.",
+      "dates": "1893–1983",
+      "country": "Brazil",
+      "sources": ["cpdoc-alceu", "jalles-rbh-2012", "jalles-cap-2012", "wiki-corcao"]
+    },
+    {
+      "name": "Plinio Corrêa de Oliveira",
+      "role": "Founder of the TFP (1960). His relation to Corção is a matter of parallel, sometimes converging traditionalisms, framed three ways by the sources: the DHBB lists Corção as a collaborator of publications it links to the TFP, including Permanência; Permanência's own history never mentions the TFP; and Jalles de Paula calls the TFP milieu Corção's 'antigos adversários' whom he joined circa 1969. No primary document of a Corção–Plinio rupture was found in the sources reached — see the disambiguation section.",
+      "dates": "1908–1995",
+      "country": "Brazil",
+      "sources": ["cpdoc-corcao", "permanencia-quemsomos", "jalles-anpuh-2011"]
+    },
+    {
+      "name": "Júlio Fleichman",
+      "role": "Jewish convert to Catholicism (baptized by Dom Marcos Barbosa), Corção's principal collaborator, juridical founder of Permanência and its president from 1969 to 2003/04. His long interview is the core Permanência-side memoir of the whole story — testimony, used here only as attributed perspective.",
+      "dates": "1928–2005",
+      "country": "Brazil",
+      "sources": ["permanencia-fleichman", "permanencia-quemsomos"]
+    },
+    {
+      "name": "Alfredo Lage",
+      "role": "Director of the revista Permanência at its 1968 launch; named in Fleichman's memoir among the Centro Dom Vital mentors around Corção, with Fernando Carneiro and Fábio Alves Ribeiro.",
+      "country": "Brazil",
+      "sources": ["jalles-cap-2012", "permanencia-fleichman"]
+    },
+    {
+      "name": "Dom Lourenço Fleichman, OSB",
+      "role": "Júlio Fleichman's son, Benedictine of the Mosteiro da Santa Cruz (Nova Friburgo); celebrates the Tridentine Mass at Permanência's Capela São Miguel Arcanjo, edited Gustavo Corção tomista (2012), and is the continuators' current spiritual reference — per Permanência's and the monastery's own pages, traditionalist self-descriptions labeled as such.",
+      "country": "Brazil",
+      "sources": ["permanencia-quemsomos", "mosteiro-corcao"]
+    },
+    {
+      "name": "Dom Jaime de Barros Câmara",
+      "role": "Cardinal-archbishop of Rio de Janeiro. Per Fleichman's memoir — Permanência-side testimony — he sided with Corção's group in the Centro Dom Vital dispute ('vocês fiquem, quem vai sair é ele') and celebrated Permanência's founding mass on 29 September 1968.",
+      "dates": "1894–1971",
+      "country": "Brazil",
+      "sources": ["permanencia-fleichman", "permanencia-quemsomos"]
+    },
+    {
+      "name": "Dom Eugênio Sales",
+      "role": "Archbishop of Rio de Janeiro from 1971. His side of the 1972 clash and the Curia's 1973 note exhorting the faithful not to follow 'pessoas que… hoje se excedem' constitute the hierarchy's formal public distancing from Corção.",
+      "dates": "1920–2012",
+      "country": "Brazil",
+      "sources": ["jalles-anpuh-2011"]
+    },
+    {
+      "name": "Carlos Lacerda",
+      "role": "Journalist and politician; brought Corção to the Tribuna da Imprensa in 1949. The DHBB credits Corção and Alceu Amoroso Lima jointly with his conversion to Catholicism.",
+      "dates": "1914–1977",
+      "country": "Brazil",
+      "sources": ["cpdoc-corcao"]
+    },
+    {
+      "name": "Jacques Maritain",
+      "role": "French Thomist philosopher, one of the readings behind Corção's 1939 conversion — 'seu mestre de conversão' — and correspondent (letter of 9 August 1959, facsimile in the BN dossier). Jalles de Paula dates Corção's rupture with him to the Vatican II years; O Século do Nada (1973) attacks him directly.",
+      "dates": "1882–1973",
+      "country": "France",
+      "sources": ["bn-revistadolivro-57", "jalles-anpuh-2011", "krause-blog"]
+    },
+    {
+      "name": "Nelson Rodrigues",
+      "role": "Playwright and columnist, a non-Catholic ally: per Fleichman's memoir — Permanência-side, single source — he wrote articles honoring Corção and a 'Carta a um milionário paulista' asking that Permanência be financially sustained.",
+      "dates": "1912–1980",
+      "country": "Brazil",
+      "sources": ["permanencia-fleichman"]
+    },
+    {
+      "name": "Olavo de Carvalho",
+      "role": "Philosopher-polemicist of a later generation who called himself a reader and admirer of Corção and recommended his books in the Curso Online de Filosofia; the comparison of him to Corção ('o Olavo de Carvalho dos anos 1960') circulated in the 2019 press and he is reported to have rejected it. His own site's Corção texts are unreachable — the domain now serves hijacked content — so his written engagement awaits Wayback or print capture; the lecture corpus is the documented vehicle here.",
+      "dates": "1947–2022",
+      "country": "Brazil",
+      "sources": ["cof-transcriptions"]
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Centro Dom Vital",
+      "founded": "1922",
+      "place": "Rio de Janeiro, Brazil",
+      "relation": "The lay-Catholic intellectual center founded by Jackson de Figueiredo with Dom Sebastião Leme in May 1922, publisher of A Ordem, presided by Alceu Amoroso Lima from 1928. Corção's platform from 1939; he led it during Alceu's 1951–53 absence, was its vice-president and the editor of A Ordem, and left in 1963 with about 200 associates — the exit from which Permanência was founded. A Ordem stopped circulating in 1964; the DHBB records the Centro's decline thereafter.",
+      "sources": ["cpdoc-cdv", "cpdoc-corcao"]
+    },
+    {
+      "name": "Permanência",
+      "founded": "1968",
+      "place": "Rio de Janeiro, Brazil",
+      "relation": "The Catholic cultural association Corção founded with Centro Dom Vital dissidents — at once an association, a revista (directed at launch by Alfredo Lage) and an editora (Júlio Fleichman president, 1969–2003/04), with weekly conferences in theology, humanist culture and Gregorian chant. The founding is layered: public launch August 1968 (press-dated), religious founding 29 September 1968 (Permanência's own date). Still active: permanencia.org.br, with the Capela São Miguel Arcanjo in Cosme Velho where Dom Lourenço Fleichman celebrates the Tridentine Mass — the continuators describe themselves in traditionalist terms and their present-day ties (Mosteiro da Santa Cruz, FSSPX milieu) rest on their own pages, labeled as self-description. The DHBB's characterization of the revista as a TFP-linked publication is that dictionary's claim, contradicted by Permanência's own account — see disambiguation.",
+      "sources": ["permanencia-quemsomos", "jalles-anpuh-2011", "permanencia-fleichman", "cpdoc-corcao"]
+    },
+    {
+      "name": "Sociedade Brasileira de Defesa da Tradição, Família e Propriedade (TFP)",
+      "founded": "1960",
+      "place": "São Paulo, Brazil",
+      "relation": "Founded by Plinio Corrêa de Oliveira with the support of bishops Castro Mayer and Sigaud. Its relation to Corção is framed three ways in the sources, and this dataset asserts none of them as the fact of the matter: (1) the DHBB lists Corção as a collaborator of 'publicações dadas à… TFP, como a revista carioca Permanência e a paulista Hora Presente' — a linkage Permanência's own history contradicts; (2) Permanência's telling never mentions the TFP at all; (3) Jalles de Paula describes 1950s adversarial relations followed by convergence circa 1969 — 'unindo-se a antigos adversários' — in the Dominicans campaign. No documented Corção–TFP rupture exists in the sources reached.",
+      "sources": ["cpdoc-corcao", "permanencia-quemsomos", "jalles-anpuh-2011"]
+    },
+    {
+      "name": "Congregação Beneditina Brasileira",
+      "place": "Brazil",
+      "relation": "Corção was a Benedictine oblate (name Paulo) from his conversion years at the Mosteiro de São Bento in Rio. A public exchange in the Jornal do Brasil of 1 July 1974 marked the official rupture of their relations.",
+      "sources": ["cpdoc-corcao", "jalles-cap-2012"]
+    },
+    {
+      "name": "Editora Agir",
+      "place": "Rio de Janeiro, Brazil",
+      "relation": "His principal publisher: nearly all the books from A Descoberta do Outro (1944) through Dois Amores, Duas Cidades (1967), plus the 'Cadernos de Permanência' series title Progresso e Progressismo.",
+      "sources": ["cpdoc-corcao", "permanencia-biblio"]
+    },
+    {
+      "name": "Editora Record",
+      "place": "Rio de Janeiro, Brazil",
+      "relation": "Publisher of O Século do Nada (1973), the Instituto Nacional do Livro prize book of 1974.",
+      "sources": ["cpdoc-corcao"]
+    },
+    {
+      "name": "Vide Editorial",
+      "place": "Campinas, Brazil",
+      "relation": "Publisher of the modern complete-works reedition (~10 volumes), attested via search snippets and retail listings; the publisher's own pages were bot-walled this session (403/challenge responses), so the edition's details stay marked to verify pending out-of-band capture.",
+      "sources": ["vide-kit"]
+    },
+    {
+      "name": "Conselho Federal de Cultura",
+      "founded": "1966",
+      "place": "Rio de Janeiro, Brazil",
+      "relation": "The federal culture council of the military-regime years; Corção was a member from 1967, per the DHBB.",
+      "sources": ["cpdoc-corcao"]
+    }
+  ],
+  "disambiguation": {
+    "items": [
+      {
+        "title": "There is no documented Corção–TFP rupture — three framings of the relation",
+        "text": "A rupture between Corção and the TFP or Plinio Corrêa de Oliveira circulates informally, but no primary document of one was found in the sources reached this session — while the same searches found the Alceu/Centro Dom Vital rupture (1963) and the Benedictine rupture (1974) immediately, which is the positive control. What the sources actually offer is three framings: the DHBB's claim (1968) that Corção collaborated in 'publicações dadas à… TFP', naming Permanência and Hora Presente; Permanência's own history, which recounts an independent foundation by Centro Dom Vital dissidents and never mentions the TFP; and Jalles de Paula's reading — 1950s adversarial relations, then convergence circa 1969, 'unindo-se a antigos adversários', in the Dominicans campaign. This dataset records all three and asserts none. The documented late-life ruptures are with the hierarchy (Dom Eugênio Sales, 1972–73) and with the Brazilian Benedictine Congregation (1974).",
+        "sources": ["cpdoc-corcao", "permanencia-quemsomos", "jalles-anpuh-2011", "jalles-cap-2012"]
+      },
+      {
+        "title": "Permanência is three things — and its founding date is layered",
+        "text": "'Permanência' names at once the cultural association Corção founded in 1968, the revista it published (directed at launch by Alfredo Lage), and the editora that carries his house editions and posthumous titles to this day. The founding date is layered rather than contradictory: Fleichman himself distinguishes a political founding (Corção's August 1968 launch conference, press-dated via O Globo of 19 August), a juridical founding (his own act), and a religious founding (the mass by Cardinal Jaime Câmara on 29 September 1968, the date Permanência keeps). The revista's exact first-issue date was not verified this session; the earliest press anchor is O Cruzeiro of 12 October 1968.",
+        "sources": ["permanencia-fleichman", "permanencia-quemsomos", "jalles-anpuh-2011", "jalles-cap-2012"]
+      },
+      {
+        "title": "The military-regime thread is carried as attributed framings, both directions",
+        "text": "Jalles de Paula — the critical scholarship — documents the 1964 columns hailing the coup, the 1965 linha-dura turn, and reads Corção as 'um dos artífices… da legitimação das bases antidemocráticas' of the regime and an unconditional ally of the linha-dura governments. Sympathetic sources — Centro Dom Bosco, the Mosteiro da Santa Cruz, admirers' chronologies — foreground the Catholic apologist and omit or soften the regime thread entirely; the Centro Dom Bosco's 2026 profile does not mention the military regime at all. Both framings are recorded here with their authors; the site's own voice takes neither.",
+        "sources": ["jalles-rbh-2012", "cdb-48anos", "mosteiro-corcao"]
+      },
+      {
+        "title": "Corção admired by Olavo de Carvalho vs. Corção compared to him",
+        "text": "Two distinct claims circulate. That Olavo de Carvalho was a reader and admirer of Corção is supported: he recommended Corção's books in his online course (community transcriptions, with one file mangling the name as 'Corsão'), and discussed a Permanência response to himself in a 2012 lecture. That Corção was 'the Olavo de Carvalho of the 1960s' is a press comparison of November 2019 which Olavo is reported to have rejected. His own site's Corção texts cannot currently be verified — olavodecarvalho.org now serves hijacked content — so the written record of both claims awaits Wayback or print capture; until then the lecture corpus, cited by file and date, is the documented vehicle.",
+        "sources": ["cof-transcriptions"]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "cpdoc-corcao",
+      "title": "CORÇÃO, Gustavo — Dicionário Histórico-Biográfico Brasileiro (DHBB), by Marieta de Morais Ferreira",
+      "url": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-biografico/gustavo-corcao-braga",
+      "publisher": "FGV CPDOC",
+      "publisherNote": "Academic-institutional biographical dictionary; the spine source for the life facts here. Full text also mirrored in the DHBB corpus on GitHub (cpdoc/dhbb, text/1437).",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "cpdoc-cdv",
+      "title": "CENTRO DOM VITAL — Dicionário Histórico-Biográfico Brasileiro (DHBB), by Mônica Kornis",
+      "url": "https://raw.githubusercontent.com/cpdoc/dhbb/master/text/8739.text",
+      "publisher": "FGV CPDOC",
+      "publisherNote": "Academic-institutional; cited from the DHBB GitHub text mirror.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "cpdoc-alceu",
+      "title": "LIMA, Alceu Amoroso — Dicionário Histórico-Biográfico Brasileiro (DHBB)",
+      "url": "https://raw.githubusercontent.com/cpdoc/dhbb/master/text/2839.text",
+      "publisher": "FGV CPDOC",
+      "publisherNote": "Academic-institutional; cited from the DHBB GitHub text mirror.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "jalles-rbh-2012",
+      "title": "Gustavo Corção: apóstolo da 'linha-dura' — Christiane Jalles de Paula, Revista Brasileira de História v.32 n.63 (2012), p.171–194, DOI 10.1590/S0102-01882012000100008",
+      "url": "https://www.scielo.br/j/rbh/a/BRhYn9jWNvCcWFFQQXq7Vbs/?lang=pt",
+      "publisher": "SciELO / ANPUH",
+      "publisherNote": "Critical scholarship on Corção's regime-era journalism; its 'linha-dura apostle' characterization is attributed wherever used. Access note: scielo.br is user-agent-filtered — 403 to non-browser fetch tools, 200 with a browser user agent.",
+      "type": "academic"
+    },
+    {
+      "id": "jalles-anpuh-2011",
+      "title": "Gustavo Corção e a reação ao Concílio Vaticano II no Brasil — Christiane Jalles de Paula, Anais do XXVI Simpósio Nacional de História (ANPUH, 2011)",
+      "url": "https://www.snh2011.anpuh.org/resources/anais/14/1300878425_ARQUIVO_GUSTAVOCORCAOEAREACAOAOCONCILIOVATICANOIINOBRASIL.pdf",
+      "publisher": "ANPUH",
+      "publisherNote": "Critical scholarship; the principal dated account of the Permanência years and the clashes with the hierarchy.",
+      "type": "academic"
+    },
+    {
+      "id": "jalles-cap-2012",
+      "title": "De 'católico-intelectual' a 'intelectual-católico': o itinerário de Gustavo Corção — Christiane Jalles de Paula, in Rodrigues & Jalles de Paula (orgs.), Intelectuais e militância católica no Brasil (EdUFMT, 2012), p.156–184",
+      "url": "https://www.pliniocorreadeoliveira.info/TD_2012_INTELECTUAIS_E_MILITANCIA_CATOLICA_NO_BRASIL.pdf",
+      "publisher": "EdUFMT",
+      "publisherNote": "Critical scholarship (university press book, ISBN 978-85-327-0472-6). Hosting caveat: the PDF is mirrored on the pro-Plinio Corrêa de Oliveira archive site — the hosting is labeled; the text is the EdUFMT edition.",
+      "type": "academic"
+    },
+    {
+      "id": "bn-revistadolivro-57",
+      "title": "Revista do Livro da Biblioteca Nacional, n.57, ano 21 (2023) — Gustavo Corção dossier",
+      "url": "https://www.pliniocorreadeoliveira.info/wp-content/uploads/2024/08/TD_2023_gustavo_corcao.pdf",
+      "publisher": "Fundação Biblioteca Nacional",
+      "publisherNote": "Official Biblioteca Nacional publication carrying a Corção dossier, including Maurício Barcellos's work and the facsimile of Maritain's 1959 letter. Hosting caveat: the PDF is mirrored on the pro-Plinio archive site — labeled.",
+      "type": "official"
+    },
+    {
+      "id": "permanencia-quemsomos",
+      "title": "Quem somos — Permanência",
+      "url": "https://permanencia.org.br/index.php/paginas/quem_somos",
+      "publisher": "Permanência",
+      "publisherNote": "The continuators' institutional self-description, including the 29 September 1968 founding date and the present-day traditionalist self-presentation — labeled as self-description throughout.",
+      "type": "archive"
+    },
+    {
+      "id": "permanencia-fleichman",
+      "title": "Entrevista com Julio Fleichman — Permanência",
+      "url": "https://permanencia.org.br/index.php/paginas/detalhar_gustavo_corcao/367",
+      "publisher": "Permanência",
+      "publisherNote": "Long memoir interview with Permanência's juridical founder and long-time president — Permanência-side testimony, used only as attributed perspective, never as a fact source on its own.",
+      "type": "testimony"
+    },
+    {
+      "id": "permanencia-biblio",
+      "title": "Sobre Gustavo Corção — bibliography page",
+      "url": "https://permanencia.org.br/index.php/paginas/gustavo_corcao/373",
+      "publisher": "Permanência",
+      "publisherNote": "Bibliography maintained by the continuators — sympathetic; several of its publication years are single-source and are flagged where used.",
+      "type": "archive"
+    },
+    {
+      "id": "cdb-48anos",
+      "title": "48 anos sem Gustavo Corção, intelectual católico brasileiro — Yuri Portella",
+      "url": "https://www.centrodombosco.org/artigos/48-anos-sem-gustavo-corcao-intelectual-catolico-brasileiro",
+      "publisher": "Centro Dom Bosco",
+      "publisherNote": "Traditionalist organization — sympathetic perspective. Its profile omits the military-regime thread entirely, which this dataset records as part of the reception picture.",
+      "type": "web"
+    },
+    {
+      "id": "mosteiro-corcao",
+      "title": "Gustavo Corção — Mosteiro da Santa Cruz",
+      "url": "https://www.mosteirodasantacruz.org/en/gustavo-corcao",
+      "publisher": "Mosteiro da Santa Cruz",
+      "publisherNote": "Traditionalist Benedictine continuators — sympathetic, labeled.",
+      "type": "web"
+    },
+    {
+      "id": "wiki-corcao",
+      "title": "Gustavo Corção — Wikipédia (pt)",
+      "url": "https://pt.wikipedia.org/wiki/Gustavo_Cor%C3%A7%C3%A3o",
+      "publisher": "Wikipedia",
+      "publisherNote": "Tertiary scaffold, used only for cross-checks; items resting on it alone (the children's names, the seventh-day mass, the IBCC prize year) are flagged as single-source.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "krause-blog",
+      "title": "Gustavo Corção: breves apontamentos biográficos e cronologia — Paul Medeiros Krause (Dec 2019)",
+      "url": "http://paulmedeiroskrause.blogspot.com/2019/12/gustavo-corcao-breves-apontamentos.html",
+      "publisher": "Paul Medeiros Krause blog",
+      "publisherNote": "An admirer's chronology — sympathetic; years resting on it alone (Conversa em Sol Menor, 1980) are flagged.",
+      "type": "web"
+    },
+    {
+      "id": "vide-kit",
+      "title": "KIT — Gustavo Corção Completo — Vide Editorial",
+      "url": "https://videeditorial.com.br/kit-gustavo-corcao",
+      "publisher": "Vide Editorial",
+      "publisherNote": "Publisher page for the modern complete-works reedition — sympathetic by nature. Bot-walled this session (403/challenge responses); cited pending out-of-band capture, and the edition's details stay marked to verify.",
+      "type": "web"
+    },
+    {
+      "id": "scienceopen-jalles",
+      "title": "ScienceOpen record of 'Gustavo Corção: apóstolo da linha-dura' (RBH 2012)",
+      "url": "https://www.scienceopen.com/document?vid=7b315484-263e-4ac2-9a76-ecb03c361c85",
+      "publisher": "ScienceOpen",
+      "publisherNote": "Metadata record — backup route for the DOI while scielo.br filters non-browser agents.",
+      "type": "database"
+    },
+    {
+      "id": "cof-transcriptions",
+      "title": "COF — community transcriptions of the Curso Online de Filosofia (585 lectures)",
+      "url": "https://github.com/alissonryan/cof-olavo",
+      "publisher": "Community transcription repository",
+      "publisherNote": "Community transcriptions of Olavo de Carvalho's lectures; per-file review status (revisada / revisao_pendente) is cited with each use, and verbatim quotation requires audio verification — reception entries here are paraphrase with file id and date.",
+      "type": "corpus"
+    }
+  ]
+}

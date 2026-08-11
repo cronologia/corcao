@@ -1,0 +1,72 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-08-11",
+  "snapshots": {
+    "http://paulmedeiroskrause.blogspot.com/2019/12/gustavo-corcao-breves-apontamentos.html": {
+      "refId": "krause-blog",
+      "archiveUrl": "https://web.archive.org/web/20231219114302/https://paulmedeiroskrause.blogspot.com/2019/12/gustavo-corcao-breves-apontamentos.html",
+      "timestamp": "20231219114302",
+      "checkedAt": "2026-08-11"
+    },
+    "https://github.com/alissonryan/cof-olavo": {
+      "refId": "cof-transcriptions",
+      "archiveUrl": "https://web.archive.org/web/20260803100651/https://github.com/alissonryan/cof-olavo",
+      "timestamp": "20260803100651",
+      "checkedAt": "2026-08-11"
+    },
+    "https://permanencia.org.br/index.php/paginas/quem_somos": {
+      "refId": "permanencia-quemsomos",
+      "archiveUrl": "https://web.archive.org/web/20251204225634/https://permanencia.org.br/index.php/paginas/quem_somos",
+      "timestamp": "20251204225634",
+      "checkedAt": "2026-08-11"
+    },
+    "https://pt.wikipedia.org/wiki/Gustavo_Cor%C3%A7%C3%A3o": {
+      "refId": "wiki-corcao",
+      "archiveUrl": "https://web.archive.org/web/20260608043428/https://pt.wikipedia.org/wiki/Gustavo_Cor%C3%A7%C3%A3o",
+      "timestamp": "20260608043428",
+      "checkedAt": "2026-08-11"
+    },
+    "https://videeditorial.com.br/kit-gustavo-corcao": {
+      "refId": "vide-kit",
+      "archiveUrl": "https://web.archive.org/web/20201125142906/https://videeditorial.com.br/kit-gustavo-corcao",
+      "timestamp": "20201125142906",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.mosteirodasantacruz.org/en/gustavo-corcao": {
+      "refId": "mosteiro-corcao",
+      "archiveUrl": "https://web.archive.org/web/20260513092209/https://www.mosteirodasantacruz.org/en/gustavo-corcao",
+      "timestamp": "20260513092209",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.pliniocorreadeoliveira.info/TD_2012_INTELECTUAIS_E_MILITANCIA_CATOLICA_NO_BRASIL.pdf": {
+      "refId": "jalles-cap-2012",
+      "archiveUrl": "https://web.archive.org/web/20240517171649/https://www.pliniocorreadeoliveira.info/TD_2012_INTELECTUAIS_E_MILITANCIA_CATOLICA_NO_BRASIL.pdf",
+      "timestamp": "20240517171649",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.pliniocorreadeoliveira.info/wp-content/uploads/2024/08/TD_2023_gustavo_corcao.pdf": {
+      "refId": "bn-revistadolivro-57",
+      "archiveUrl": "https://web.archive.org/web/20250213171258/https://www.pliniocorreadeoliveira.info/wp-content/uploads/2024/08/TD_2023_gustavo_corcao.pdf",
+      "timestamp": "20250213171258",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.scielo.br/j/rbh/a/BRhYn9jWNvCcWFFQQXq7Vbs/?lang=pt": {
+      "refId": "jalles-rbh-2012",
+      "archiveUrl": "https://web.archive.org/web/20260807124236/https://www.scielo.br/j/rbh/a/BRhYn9jWNvCcWFFQQXq7Vbs/?lang=pt",
+      "timestamp": "20260807124236",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.snh2011.anpuh.org/resources/anais/14/1300878425_ARQUIVO_GUSTAVOCORCAOEAREACAOAOCONCILIOVATICANOIINOBRASIL.pdf": {
+      "refId": "jalles-anpuh-2011",
+      "archiveUrl": "https://web.archive.org/web/20250912234847/http://www.snh2011.anpuh.org/resources/anais/14/1300878425_ARQUIVO_GUSTAVOCORCAOEAREACAOAOCONCILIOVATICANOIINOBRASIL.pdf",
+      "timestamp": "20250912234847",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-biografico/gustavo-corcao-braga": {
+      "refId": "cpdoc-corcao",
+      "archiveUrl": "https://web.archive.org/web/20251221101220/https://www18.fgv.br/CPDOC/acervo/dicionarios/verbete-biografico/gustavo-corcao-braga",
+      "timestamp": "20251221101220",
+      "checkedAt": "2026-08-11"
+    }
+  }
+}
