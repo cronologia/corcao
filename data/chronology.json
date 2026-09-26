@@ -4,6 +4,7 @@
     "subtitle": "Chronology of Gustavo Corção (1896–1978)",
     "description": "An open, source-referenced chronology of Gustavo Corção — Brazilian Catholic writer, engineer and polemicist: his life and works, the Centro Dom Vital years, the founding of Permanência, the disputes of the 1960s–70s, and his posthumous reception.",
     "language": "en",
+    "layout": "river",
     "siteUrl": "https://cronologia.github.io/corcao/",
     "lastUpdated": "2026-08-11",
     "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). Contested characterizations are attributed to their authors — never asserted in the site's own voice — and dates not yet verified against a primary source carry a ? flag. Known limits of this snapshot: publication years of several books are discordant across the standard sources and are flagged per work rather than silently chosen; the 1978 press obituaries are attested via scholarship while the newspaper pages themselves await capture (the Hemeroteca Digital, memoria.bn.gov.br, is geo-blocked outside Brazil); olavodecarvalho.org now serves hijacked content, so Olavo de Carvalho's texts on Corção await Wayback or print capture and are represented here only through the lecture-transcription corpus; and the military-regime thread is carried as attributed framings in both directions — critical scholarship names his role, sympathetic profiles omit it, and this dataset records both without adjudicating.",

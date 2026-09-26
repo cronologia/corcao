@@ -1,12 +1,16 @@
 {
   "_meta": {
     "targetLang": "es",
-    "coverage": "171/171",
+    "coverage": "175/175",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-08-11 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes. Proper names, reference titles/publishers, URLs, dates and ids are never translated.",
     "humanReviewed": false
   },
   "strings": {
+    "1922": "1922",
+    "1960": "1960",
+    "1966": "1966",
+    "1968": "1968",
     "Gustavo Corção — Cronologia": "Gustavo Corção — Cronología",
     "Chronology of Gustavo Corção (1896–1978)": "Cronología de Gustavo Corção (1896–1978)",
     "An open, source-referenced chronology of Gustavo Corção — Brazilian Catholic writer, engineer and polemicist: his life and works, the Centro Dom Vital years, the founding of Permanência, the disputes of the 1960s–70s, and his posthumous reception.": "Una cronología abierta y referenciada a sus fuentes de Gustavo Corção — escritor, ingeniero y polemista católico brasileño: su vida y sus obras, los años del Centro Dom Vital, la fundación de Permanência, las disputas de los años sesenta y setenta, y su recepción póstuma.",
